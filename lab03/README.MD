@@ -22,6 +22,12 @@ _Interactions_:
 
 - Upon interaction, stores the entered details and added glossary items for the event.
 
-2. **Glossary Multi-Select:**
+2. **Calendar Button**
+- Users select calendar button to choose a date
+
+3. **Clock Button**
+- Useres select clock button to choose a specific time for the event
+
+4. **Glossary Multi-Select:**
 
 - Users can browse and select multiple glossary items related to healthcare to add to their event.

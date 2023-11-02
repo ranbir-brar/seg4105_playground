@@ -78,3 +78,28 @@ My pitch choice: Health-checkin map (Jason’s pitch)
 
 # (Yasser’s notes)
 
+Yasser's pitch choice: Health-checkin map (Jason’s pitch)
+
+### Ranbir's Pitch:
+
+- Ranbir's pitch aims to enhance user experience and inclusivity by allowing users to create and customize surgical details or related events.
+- The focus is on keeping the interface simple, with key features like date, time, event type, and description.
+- The medical glossary needs to be concise and comprehensive, but this may take longer than the 6-week timeframe.
+- Translations of medical terms may pose challenges.
+- Prioritizing glossary narrowing and alpha testing with a group is essential.
+
+### Yasser's Pitch: 
+- Developing the health checklist feature is considered complex to complete within a 6-week cycle.
+- Alpha testing is essential to gather and implement user feedback.
+- The process of gathering requirements and design might extend beyond the initial 1-2 week estimate.
+- There is a strong emphasis on regression testing to prevent any disruptions to existing features.
+- Shipping the feature within the 6-week timeframe appears challenging.
+- Finding correct data could pose a challenge.
+
+### Jason's Pitch:
+- Jason's pitch revolves around integrating hospital maps into the app, providing users with access to hospital layouts.
+- The proposed feature includes zoomable, high-quality maps with offline accessibility.
+- This feature is well-tailored for a 6-week development cycle, with straightforward requirements and simple testing.
+- It doesn't have dependencies like glossary translations, making implementation smoother.
+- Stakeholders are willing to provide high-resolution maps.
+
